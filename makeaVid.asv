@@ -16,16 +16,7 @@ for vi = 1:v.NumFrames
 end
 
 %%
-% GUI compiles all mat files saves only DIGIN data
+% Load in TTL
 
-% Load in TTL - need to downsample to 100 Hz from 44kHz
-
-% Load in time from night recording
-
-% Epoch start number for each video file
-
-% Break up video file into indices that have 10 frames / per second / per
-% 30 seconds [300 frames]
-
-
+% Load in time from 
 
