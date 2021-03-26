@@ -1,7 +1,7 @@
 
-cd('C:\Users\johna\Downloads')
+% cd('C:\Users\johna\Downloads')
 
-v = VideoReader('1_UNMC_1_1.mp4');
+v = VideoReader('2_UNMC-final2_1_1.mp4');
 
 %%
 
